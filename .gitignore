@@ -1,0 +1,7 @@
+testing_proyecto.ipynb
+
+__pycache__/
+.ipynb_checkpoints
+.vscode/
+.DS_Store
+*.pyc
